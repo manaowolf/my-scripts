@@ -1,0 +1,754 @@
+collections:
+  豆瓣电影 Top 250:
+    summary: 豆瓣评分最高的 250 部电影合集；自动生成于脚本
+    tmdb_movie:
+    - id: 278
+      title: 肖申克的救赎
+      index: 1
+    - id: 10997
+      title: 霸王别姬
+      index: 2
+    - id: 597
+      title: 泰坦尼克号
+      index: 3
+    - id: 13
+      title: 阿甘正传
+      index: 4
+    - id: 129
+      title: 千与千寻
+      index: 5
+    - id: 637
+      title: 美丽人生
+      index: 6
+    - id: 101
+      title: 这个杀手不太冷
+      index: 7
+    - id: 157336
+      title: 星际穿越
+      index: 8
+    - id: 64956
+      title: 盗梦空间
+      index: 9
+    - id: 37165
+      title: 楚门的世界
+      index: 10
+    - id: 424
+      title: 辛德勒的名单
+      index: 11
+    - id: 28178
+      title: 忠犬八公的故事
+      index: 12
+    - id: 10376
+      title: 海上钢琴师
+      index: 13
+    - id: 20453
+      title: 三傻大闹宝莱坞
+      index: 14
+    - id: 269149
+      title: 疯狂动物城
+      index: 15
+    - id: 5528
+      title: 放牛班的春天
+      index: 16
+    - id: 10681
+      title: 机器人总动员
+      index: 17
+    - id: 10775
+      title: 无间道
+      index: 18
+    - id: 37257
+      title: 控方证人
+      index: 19
+    - id: 21835
+      title: 大话西游之大圣娶亲
+      index: 20
+    - id: 81481
+      title: 熔炉
+      index: 21
+    - id: 77338
+      title: 触不可及
+      index: 22
+    - id: 238
+      title: 教父
+      index: 23
+    - id: 354912
+      title: 寻梦环游记
+      index: 24
+    - id: 1402
+      title: 当幸福来敲门
+      index: 25
+    - id: 746
+      title: 末代皇帝
+      index: 26
+    - id: 671
+      title: 哈利·波特与魔法石
+      index: 27
+    - id: 8392
+      title: 龙猫
+      index: 28
+    - id: 43949
+      title: 怦然心动
+      index: 29
+    - id: 31439
+      title: 活着
+      index: 30
+    - id: 155
+      title: 蝙蝠侠：黑暗骑士
+      index: 31
+    - id: 122
+      title: 指环王3：王者无敌
+      index: 32
+    - id: 532753
+      title: 我不是药神
+      index: 33
+    - id: 770
+      title: 乱世佳人
+      index: 34
+    - id: 14160
+      title: 飞屋环游记
+      index: 35
+    - id: 51533
+      title: 让子弹飞
+      index: 36
+    - id: 4935
+      title: 哈尔的移动城堡
+      index: 37
+    - id: 255709
+      title: 素媛
+      index: 38
+    - id: 389
+      title: 十二怒汉
+      index: 39
+    - id: 365045
+      title: 海蒂和爷爷
+      index: 40
+    - id: 640
+      title: 猫鼠游戏
+      index: 41
+    - id: 10515
+      title: 天空之城
+      index: 42
+    - id: 25838
+      title: 鬼子来了
+      index: 43
+    - id: 360814
+      title: 摔跤吧！爸爸
+      index: 44
+    - id: 87827
+      title: 少年派的奇幻漂流
+      index: 45
+    - id: 423
+      title: 钢琴家
+      index: 46
+    - id: 121
+      title: 指环王2：双塔奇兵
+      index: 47
+    - id: 207
+      title: 死亡诗社
+      index: 48
+    - id: 13345
+      title: 大话西游之月光宝盒
+      index: 49
+    - id: 517814
+      title: 何以为家
+      index: 50
+    - id: 9475
+      title: 闻香识女人
+      index: 51
+    - id: 490132
+      title: 绿皮书
+      index: 52
+    - id: 47759
+      title: 大闹天宫
+      index: 53
+    - id: 603
+      title: 黑客帝国
+      index: 54
+    - id: 120
+      title: 指环王1：护戒使者
+      index: 55
+    - id: 804
+      title: 罗马假日
+      index: 56
+    - id: 240
+      title: 教父2
+      index: 57
+    - id: 8587
+      title: 狮子王
+      index: 58
+    - id: 11216
+      title: 天堂电影院
+      index: 59
+    - id: 10451
+      title: 饮食男女
+      index: 60
+    - id: 242452
+      title: 辩护人
+      index: 61
+    - id: 550
+      title: 搏击俱乐部
+      index: 62
+    - id: 4922
+      title: 本杰明·巴顿奇事
+      index: 63
+    - id: 453
+      title: 美丽心灵
+      index: 64
+    - id: 14574
+      title: 穿条纹睡衣的男孩
+      index: 65
+    - id: 47002
+      title: 情书
+      index: 66
+    - id: 100
+      title: 两杆大烟枪
+      index: 67
+    - id: 582
+      title: 窃听风暴
+      index: 68
+    - id: 12445
+      title: 哈利·波特与死亡圣器(下)
+      index: 69
+    - id: 15121
+      title: 音乐之声
+      index: 70
+    - id: 10867
+      title: 西西里的美丽传说
+      index: 71
+    - id: 9470
+      title: 功夫
+      index: 72
+    - id: 19995
+      title: 阿凡达
+      index: 73
+    - id: 673
+      title: 哈利·波特与阿兹卡班的囚徒
+      index: 74
+    - id: 411088
+      title: 看不见的客人
+      index: 75
+    - id: 857
+      title: 拯救大兵瑞恩
+      index: 76
+    - id: 274
+      title: 沉默的羔羊
+      index: 77
+    - id: 21334
+      title: 小鞋子
+      index: 78
+    - id: 510
+      title: 飞越疯人院
+      index: 79
+    - id: 120467
+      title: 布达佩斯大饭店
+      index: 80
+    - id: 1954
+      title: 蝴蝶效应
+      index: 81
+    - id: 11324
+      title: 禁闭岛
+      index: 82
+    - id: 1124
+      title: 致命魔术
+      index: 83
+    - id: 489
+      title: 心灵捕手
+      index: 84
+    - id: 680
+      title: 低俗小说
+      index: 85
+    - id: 74308
+      title: 超脱
+      index: 86
+    - id: 672
+      title: 哈利·波特与密室
+      index: 87
+    - id: 3082
+      title: 摩登时代
+      index: 88
+    - id: 53168
+      title: 喜剧之王
+      index: 89
+    - id: 11423
+      title: 杀人回忆
+      index: 90
+    - id: 2832
+      title: 致命ID
+      index: 91
+    - id: 18329
+      title: 春光乍泄
+      index: 92
+    - id: 25538
+      title: 一一
+      index: 93
+    - id: 23128
+      title: 海豚湾
+      index: 94
+    - id: 311
+      title: 美国往事
+      index: 95
+    - id: 22
+      title: 加勒比海盗
+      index: 96
+    - id: 4977
+      title: 红辣椒
+      index: 97
+    - id: 1026227
+      title: 还有明天
+      index: 98
+    - id: 807
+      title: 七宗罪
+      index: 99
+    - id: 37703
+      title: 唐伯虎点秋香
+      index: 100
+    - id: 69504
+      title: 狩猎
+      index: 101
+    - id: 128
+      title: 幽灵公主
+      index: 102
+    - id: 37185
+      title: 甜蜜蜜
+      index: 103
+    - id: 49026
+      title: 蝙蝠侠：黑暗骑士崛起
+      index: 104
+    - id: 158445
+      title: 7号房的礼物
+      index: 105
+    - id: 1100466
+      title: 寄生虫
+      index: 106
+    - id: 134575
+      title: 天书奇谭
+      index: 107
+    - id: 177572
+      title: 超能陆战队
+      index: 108
+    - id: 76
+      title: 爱在黎明破晓前
+      index: 109
+    - id: 745
+      title: 第六感
+      index: 110
+    - id: 31512
+      title: 被嫌弃的松子的一生
+      index: 111
+    - id: 80
+      title: 爱在日落黄昏时
+      index: 112
+    - id: 11104
+      title: 重庆森林
+      index: 113
+    - id: 16804
+      title: 入殓师
+      index: 114
+    - id: 10494
+      title: 未麻的部屋
+      index: 115
+    - id: 162
+      title: 剪刀手爱德华
+      index: 116
+    - id: 526431
+      title: 茶馆
+      index: 117
+    - id: 142
+      title: 断背山
+      index: 118
+    - id: 674
+      title: 哈利·波特与火焰杯
+      index: 119
+    - id: 4291
+      title: 菊次郎的夏天
+      index: 120
+    - id: 51739
+      title: 借东西的小人阿莉埃蒂
+      index: 121
+    - id: 197
+      title: 勇敢的心
+      index: 122
+    - id: 355338
+      title: 头脑特工队
+      index: 123
+    - id: 122906
+      title: 时空恋旅人
+      index: 124
+    - id: 2517
+      title: 无人知晓
+      index: 125
+    - id: 210577
+      title: 消失的爱人
+      index: 126
+    - id: 30421
+      title: 倩女幽魂
+      index: 127
+    - id: 10191
+      title: 驯龙高手
+      index: 128
+    - id: 9559
+      title: 完美的世界
+      index: 129
+    - id: 843
+      title: 花样年华
+      index: 130
+    - id: 161285
+      title: 阳光灿烂的日子
+      index: 131
+    - id: 165213
+      title: 新世界
+      index: 132
+    - id: 294682
+      title: 小森林 夏秋篇
+      index: 133
+    - id: 194
+      title: 天使爱美丽
+      index: 134
+    - id: 4348
+      title: 傲慢与偏见
+      index: 135
+    - id: 348678
+      title: 一个叫欧维的男人决定去死
+      index: 136
+    - id: 37797
+      title: 侧耳倾听
+      index: 137
+    - id: 10193
+      title: 玩具总动员3
+      index: 138
+    - id: 585
+      title: 怪兽电力公司
+      index: 139
+    - id: 242
+      title: 教父3
+      index: 140
+    - id: 398818
+      title: 请以你的名字呼唤我
+      index: 141
+    - id: 4588
+      title: 色，戒
+      index: 142
+    - id: 594
+      title: 幸福终点站
+      index: 143
+    - id: 74037
+      title: 哪吒闹海
+      index: 144
+    - id: 68718
+      title: 被解救的姜戈
+      index: 145
+    - id: 55156
+      title: 九品芝麻官
+      index: 146
+    - id: 336026
+      title: 小森林 冬春篇
+      index: 147
+    - id: 396535
+      title: 釜山行
+      index: 148
+    - id: 20352
+      title: 神偷奶爸
+      index: 149
+    - id: 92321
+      title: 萤火之森
+      index: 150
+    - id: 9261
+      title: 喜宴
+      index: 151
+    - id: 54186
+      title: 告白
+      index: 152
+    - id: 333339
+      title: 头号玩家
+      index: 153
+    - id: 24238
+      title: 玛丽和麦克斯
+      index: 154
+    - id: 346
+      title: 七武士
+      index: 155
+    - id: 205596
+      title: 模仿游戏
+      index: 156
+    - id: 587
+      title: 大鱼
+      index: 157
+    - id: 539
+      title: 惊魂记
+      index: 158
+    - id: 55157
+      title: 射雕英雄传之东成西就
+      index: 159
+    - id: 324786
+      title: 血战钢锯岭
+      index: 160
+    - id: 10950
+      title: 我是山姆
+      index: 161
+    - id: 372058
+      title: 你的名字。
+      index: 162
+    - id: 77117
+      title: 阳光姐妹淘
+      index: 163
+    - id: 209764
+      title: 恐怖直播
+      index: 164
+    - id: 605
+      title: 黑客帝国3：矩阵革命
+      index: 165
+    - id: 295279
+      title: 背靠背，脸对脸
+      index: 166
+    - id: 508442
+      title: 心灵奇旅
+      index: 167
+    - id: 176
+      title: 电锯惊魂
+      index: 168
+    - id: 359940
+      title: 三块广告牌
+      index: 169
+    - id: 475557
+      title: 小丑
+      index: 170
+    - id: 2503
+      title: 谍影重重3
+      index: 171
+    - id: 152532
+      title: 达拉斯买家俱乐部
+      index: 172
+    - id: 49519
+      title: 疯狂原始人
+      index: 173
+    - id: 14310
+      title: 无间道2
+      index: 174
+    - id: 497
+      title: 绿里奇迹
+      index: 175
+    - id: 132344
+      title: 爱在午夜降临前
+      index: 176
+    - id: 315846
+      title: 海街日记
+      index: 177
+    - id: 81
+      title: 风之谷
+      index: 178
+    - id: 598
+      title: 上帝之城
+      index: 179
+    - id: 45380
+      title: 疯狂的石头
+      index: 180
+    - id: 11471
+      title: 英雄本色
+      index: 181
+    - id: 872
+      title: 雨中曲
+      index: 182
+    - id: 62
+      title: 2001太空漫游
+      index: 183
+    - id: 292362
+      title: 心迷宫
+      index: 184
+    - id: 1541
+      title: 末路狂花
+      index: 185
+    - id: 47423
+      title: 纵横四海
+      index: 186
+    - id: 77
+      title: 记忆碎片
+      index: 187
+    - id: 258424
+      title: 高山下的花环
+      index: 188
+    - id: 205
+      title: 卢旺达饭店
+      index: 189
+    - id: 82690
+      title: 无敌破坏王
+      index: 190
+    - id: 505192
+      title: 小偷家族
+      index: 191
+    - id: 425
+      title: 冰川时代
+      index: 192
+    - id: 26466
+      title: 恐怖游轮
+      index: 193
+    - id: 13398
+      title: 东京教父
+      index: 194
+    - id: 15804
+      title: 牯岭街少年杀人事件
+      index: 195
+    - id: 16859
+      title: 魔女宅急便
+      index: 196
+    - id: 39693
+      title: 岁月神偷
+      index: 197
+    - id: 31743
+      title: 忠犬八公物语
+      index: 198
+    - id: 265195
+      title: 荒蛮故事
+      index: 199
+    - id: 7350
+      title: 遗愿清单
+      index: 200
+    - id: 122973
+      title: 芙蓉镇
+      index: 201
+    - id: 475149
+      title: 大佛普拉斯
+      index: 202
+    - id: 12405
+      title: 贫民窟的百万富翁
+      index: 203
+    - id: 45612
+      title: 源代码
+      index: 204
+    - id: 76341
+      title: 疯狂的麦克斯4：狂暴之路
+      index: 205
+    - id: 89825
+      title: 你看起来好像很好吃
+      index: 206
+    - id: 40751
+      title: 东邪西毒
+      index: 207
+    - id: 16074
+      title: 可可西里
+      index: 208
+    - id: 838240
+      title: 机器人之梦
+      index: 209
+    - id: 244786
+      title: 爆裂鼓手
+      index: 210
+    - id: 901
+      title: 城市之光
+      index: 211
+    - id: 424694
+      title: 波西米亚狂想曲
+      index: 212
+    - id: 695932
+      title: 花束般的恋爱
+      index: 213
+    - id: 116745
+      title: 白日梦想家
+      index: 214
+    - id: 313369
+      title: 爱乐之城
+      index: 215
+    - id: 44214
+      title: 黑天鹅
+      index: 216
+    - id: 39915
+      title: 青蛇
+      index: 217
+    - id: 12444
+      title: 哈利·波特与死亡圣器(上)
+      index: 218
+    - id: 280
+      title: 终结者2：审判日
+      index: 219
+    - id: 16869
+      title: 无耻混蛋
+      index: 220
+    - id: 57627
+      title: 初恋这件小事
+      index: 221
+    - id: 40213
+      title: 新龙门客栈
+      index: 222
+    - id: 380
+      title: 雨人
+      index: 223
+    - id: 644
+      title: 人工智能
+      index: 224
+    - id: 10404
+      title: 大红灯笼高高挂
+      index: 225
+    - id: 8290
+      title: 虎口脱险
+      index: 226
+    - id: 12429
+      title: 崖上的波妞
+      index: 227
+    - id: 508
+      title: 真爱至上
+      index: 228
+    - id: 782
+      title: 千钧一发
+      index: 229
+    - id: 548
+      title: 罗生门
+      index: 230
+    - id: 11036
+      title: 恋恋笔记本
+      index: 231
+    - id: 220289
+      title: 彗星来的那一夜
+      index: 232
+    - id: 675
+      title: 哈利·波特与凤凰社
+      index: 233
+    - id: 334541
+      title: 海边的曼彻斯特
+      index: 234
+    - id: 286217
+      title: 火星救援
+      index: 235
+    - id: 604
+      title: 黑客帝国2：重装上阵
+      index: 236
+    - id: 406997
+      title: 奇迹男孩
+      index: 237
+    - id: 12477
+      title: 萤火虫之墓
+      index: 238
+    - id: 33320
+      title: 千年女优
+      index: 239
+    - id: 1830
+      title: 战争之王
+      index: 240
+    - id: 25050
+      title: 步履不停
+      index: 241
+    - id: 2502
+      title: 谍影重重2
+      index: 242
+    - id: 1372
+      title: 血钻
+      index: 243
+    - id: 9323
+      title: 攻壳机动队
+      index: 244
+    - id: 324857
+      title: 蜘蛛侠：平行宇宙
+      index: 245
+    - id: 109445
+      title: 冰雪奇缘
+      index: 246
+    - id: 43824
+      title: 魂断蓝桥
+      index: 247
+    - id: 264644
+      title: 房间
+      index: 248
+    - id: 381284
+      title: 隐藏人物
+      index: 249
+    - id: 2501
+      title: 谍影重重
+      index: 250

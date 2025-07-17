@@ -1,0 +1,2016 @@
+豆瓣Top250完整数据:
+  summary: 豆瓣Top250电影完整信息，包含TMDb匹配结果
+  total_count: 250
+  matched_count: 250
+  movies:
+  - rank: 1
+    title_cn: 肖申克的救赎
+    title_en: / The Shawshank Redemption
+    year: 1994
+    rating: 9.7
+    director: 弗兰克·德拉邦特 Frank Darabont
+    actors: 蒂姆·罗宾斯 Tim Robbins /
+    tmdb_id: 278
+  - rank: 2
+    title_cn: 霸王别姬
+    title_en: / 再见，我的妾  /  Farewell My Concubine
+    year: 1993
+    rating: 9.6
+    director: 陈凯歌 Kaige Chen
+    actors: 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha
+    tmdb_id: 10997
+  - rank: 3
+    title_cn: 泰坦尼克号
+    title_en: / Titanic
+    year: 1997
+    rating: 9.5
+    director: 詹姆斯·卡梅隆 James Cameron
+    actors: 莱昂纳多·迪卡普里奥 Leonardo
+    tmdb_id: 597
+  - rank: 4
+    title_cn: 阿甘正传
+    title_en: / Forrest Gump
+    year: 1994
+    rating: 9.5
+    director: 罗伯特·泽米吉斯 Robert Zemeckis
+    actors: 汤姆·汉克斯 Tom Hanks /
+    tmdb_id: 13
+  - rank: 5
+    title_cn: 千与千寻
+    title_en: / 千と千尋の神隠し
+    year: 2001
+    rating: 9.4
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 柊瑠美 Rumi Hîragi / 入野自由 Miy
+    tmdb_id: 129
+  - rank: 6
+    title_cn: 美丽人生
+    title_en: / La vita è bella
+    year: 1997
+    rating: 9.5
+    director: 罗伯托·贝尼尼 Roberto Benigni
+    actors: 罗伯托·贝尼尼 Roberto Beni
+    tmdb_id: 637
+  - rank: 7
+    title_cn: 这个杀手不太冷
+    title_en: / Léon
+    year: 1994
+    rating: 9.4
+    director: 吕克·贝松 Luc Besson
+    actors: 让·雷诺 Jean Reno / 娜塔莉·波特曼
+    tmdb_id: 101
+  - rank: 8
+    title_cn: 星际穿越
+    title_en: / Interstellar
+    year: 2014
+    rating: 9.4
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 马修·麦康纳 Matthew Mc
+    tmdb_id: 157336
+  - rank: 9
+    title_cn: 盗梦空间
+    title_en: / Inception
+    year: 2010
+    rating: 9.4
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 莱昂纳多·迪卡普里奥 Le
+    tmdb_id: 64956
+  - rank: 10
+    title_cn: 楚门的世界
+    title_en: / The Truman Show
+    year: 1998
+    rating: 9.4
+    director: 彼得·威尔 Peter Weir
+    actors: 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau
+    tmdb_id: 37165
+  - rank: 11
+    title_cn: 辛德勒的名单
+    title_en: / Schindler's List
+    year: 1993
+    rating: 9.5
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 连姆·尼森 Liam Neeson
+    tmdb_id: 424
+  - rank: 12
+    title_cn: 忠犬八公的故事
+    title_en: '/ Hachi: A Dog''s Tale'
+    year: 2009
+    rating: 9.4
+    director: 莱塞·霍尔斯道姆 Lasse Hallström
+    actors: 理查·基尔 Richard Ger
+    tmdb_id: 28178
+  - rank: 13
+    title_cn: 海上钢琴师
+    title_en: / La leggenda del pianista sull'oceano
+    year: 1998
+    rating: 9.3
+    director: 朱塞佩·托纳多雷 Giuseppe Tornatore
+    actors: 蒂姆·罗斯 Tim Roth /
+    tmdb_id: 10376
+  - rank: 14
+    title_cn: 三傻大闹宝莱坞
+    title_en: / 3 Idiots
+    year: 2009
+    rating: 9.2
+    director: 拉库马·希拉尼 Rajkumar Hirani
+    actors: 阿米尔·汗 Aamir Khan / 卡
+    tmdb_id: 20453
+  - rank: 15
+    title_cn: 疯狂动物城
+    title_en: / Zootopia
+    year: 2016
+    rating: 9.2
+    director: 拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore
+    actors: 金妮弗·
+    tmdb_id: 269149
+  - rank: 16
+    title_cn: 放牛班的春天
+    title_en: / Les choristes
+    year: 2004
+    rating: 9.3
+    director: 克里斯托夫·巴拉蒂 Christophe Barratier
+    actors: 让-巴蒂斯特·莫尼
+    tmdb_id: 5528
+  - rank: 17
+    title_cn: 机器人总动员
+    title_en: / WALL·E
+    year: 2008
+    rating: 9.3
+    director: 安德鲁·斯坦顿 Andrew Stanton
+    actors: 本·贝尔特 Ben Burtt / 艾丽
+    tmdb_id: 10681
+  - rank: 18
+    title_cn: 无间道
+    title_en: / 無間道
+    year: 2002
+    rating: 9.3
+    director: 刘伟强 / 麦兆辉
+    actors: 刘德华 Andy Lau / 梁朝伟 Tony Leung Chiu W
+    tmdb_id: 10775
+  - rank: 19
+    title_cn: 控方证人
+    title_en: / Witness for the Prosecution
+    year: 1957
+    rating: 9.6
+    director: 比利·怀尔德 Billy Wilder
+    actors: 泰隆·鲍华 Tyrone Power / 玛琳·
+    tmdb_id: 37257
+  - rank: 20
+    title_cn: 大话西游之大圣娶亲
+    title_en: / 西遊記大結局之仙履奇緣
+    year: 1995
+    rating: 9.2
+    director: 刘镇伟 Jeffrey Lau
+    actors: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng
+    tmdb_id: 21835
+  - rank: 21
+    title_cn: 熔炉
+    title_en: / 도가니
+    year: 2011
+    rating: 9.3
+    director: 黄东赫 Dong-hyuk Hwang
+    actors: 孔侑 Yoo Gong / 郑有美 Yu-mi Jung /
+    tmdb_id: 81481
+  - rank: 22
+    title_cn: 触不可及
+    title_en: / Intouchables
+    year: 2011
+    rating: 9.3
+    director: 奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano
+    actors: ''
+    tmdb_id: 77338
+  - rank: 23
+    title_cn: 教父
+    title_en: / The Godfather
+    year: 1972
+    rating: 9.3
+    director: 弗朗西斯·福特·科波拉 Francis Ford Coppola
+    actors: 马龙·白兰度 M
+    tmdb_id: 238
+  - rank: 24
+    title_cn: 寻梦环游记
+    title_en: / Coco
+    year: 2017
+    rating: 9.1
+    director: 李·昂克里奇 Lee Unkrich / 阿德里安·莫利纳 Adrian Molina
+    actors: ''
+    tmdb_id: 354912
+  - rank: 25
+    title_cn: 当幸福来敲门
+    title_en: / The Pursuit of Happyness
+    year: 2006
+    rating: 9.1
+    director: 加布里尔·穆奇诺 Gabriele Muccino
+    actors: 威尔·史密斯 Will Smith
+    tmdb_id: 1402
+  - rank: 26
+    title_cn: 末代皇帝
+    title_en: / The Last Emperor
+    year: 1987
+    rating: 9.3
+    director: 贝纳尔多·贝托鲁奇 Bernardo Bertolucci
+    actors: 尊龙 John Lone / 陈
+    tmdb_id: 746
+  - rank: 27
+    title_cn: 哈利·波特与魔法石
+    title_en: / Harry Potter and the Sorcerer's Stone
+    year: 2001
+    rating: 9.2
+    director: Chris Columbus
+    actors: "Daniel Radcliffe / Emma Watson / Rupert Grint\n                     \
+      \       2001 / 美国 英国 / 奇幻 冒险"
+    tmdb_id: 671
+  - rank: 28
+    title_cn: 龙猫
+    title_en: / となりのトトロ
+    year: 1988
+    rating: 9.2
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 日高法子 Noriko Hidaka / 坂本千夏 Ch
+    tmdb_id: 8392
+  - rank: 29
+    title_cn: 怦然心动
+    title_en: / Flipped
+    year: 2010
+    rating: 9.1
+    director: 罗伯·莱纳 Rob Reiner
+    actors: 玛德琳·卡罗尔 Madeline Carroll / 卡
+    tmdb_id: 43949
+  - rank: 30
+    title_cn: 活着
+    title_en: / 人生  /  Lifetimes
+    year: 1994
+    rating: 9.3
+    director: 张艺谋 Yimou Zhang
+    actors: "葛优 You Ge / 巩俐 Li Gong / 姜武 Wu Jiang\n                            1994 / 中国大陆\
+      \ 中国香港 / 剧情 历史 家庭"
+    tmdb_id: 31439
+  - rank: 31
+    title_cn: 蝙蝠侠：黑暗骑士
+    title_en: / The Dark Knight
+    year: 2008
+    rating: 9.2
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 克里斯蒂安·贝尔 Christ
+    tmdb_id: 155
+  - rank: 32
+    title_cn: 指环王3：王者无敌
+    title_en: '/ The Lord of the Rings: The Return of the King'
+    year: 2003
+    rating: 9.3
+    director: 彼得·杰克逊 Peter Jackson
+    actors: 伊利亚·伍德 Elijah Wood / 西恩
+    tmdb_id: 122
+  - rank: 33
+    title_cn: 我不是药神
+    title_en: / 中国药神  /  印度药神
+    year: 2018
+    rating: 9.0
+    director: 文牧野 Muye Wen
+    actors: 徐峥 Zheng Xu / 王传君 Chuanjun Wang / 周
+    tmdb_id: 532753
+  - rank: 34
+    title_cn: 乱世佳人
+    title_en: / Gone with the Wind
+    year: 1939
+    rating: 9.3
+    director: 维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor
+    actors: 费
+    tmdb_id: 770
+  - rank: 35
+    title_cn: 飞屋环游记
+    title_en: / Up
+    year: 2009
+    rating: 9.1
+    director: 彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson
+    actors: 爱德
+    tmdb_id: 14160
+  - rank: 36
+    title_cn: 让子弹飞
+    title_en: / 让子弹飞一会儿  /  火烧云
+    year: 2010
+    rating: 9.0
+    director: 姜文 Wen Jiang
+    actors: 姜文 Wen Jiang / 葛优 You Ge / 周润发 Yun-F
+    tmdb_id: 51533
+  - rank: 37
+    title_cn: 哈尔的移动城堡
+    title_en: / ハウルの動く城
+    year: 2004
+    rating: 9.1
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 倍赏千惠子 Chieko Baishô / 木村拓
+    tmdb_id: 4935
+  - rank: 38
+    title_cn: 素媛
+    title_en: / 소원
+    year: 2013
+    rating: 9.3
+    director: 李濬益 Jun-ik Lee
+    actors: 薛景求 Kyung-gu Sol / 严志媛 Ji-won Uhm
+    tmdb_id: 255709
+  - rank: 39
+    title_cn: 十二怒汉
+    title_en: / 12 Angry Men
+    year: 1957
+    rating: 9.4
+    director: 西德尼·吕美特 Sidney Lumet
+    actors: 亨利·方达 Henry Fonda / 马丁
+    tmdb_id: 389
+  - rank: 40
+    title_cn: 海蒂和爷爷
+    title_en: / Heidi
+    year: 2015
+    rating: 9.3
+    director: 阿兰·葛斯彭纳 Alain Gsponer
+    actors: 阿努克·斯特芬 Anuk Steffen /
+    tmdb_id: 365045
+  - rank: 41
+    title_cn: 猫鼠游戏
+    title_en: / Catch Me If You Can
+    year: 2002
+    rating: 9.1
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 莱昂纳多·迪卡普里奥 L
+    tmdb_id: 640
+  - rank: 42
+    title_cn: 天空之城
+    title_en: / 天空の城ラピュタ
+    year: 1986
+    rating: 9.2
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 田中真弓 Mayumi Tanaka / 横泽启子 Ke
+    tmdb_id: 10515
+  - rank: 43
+    title_cn: 鬼子来了
+    title_en: / Devils on the Doorstep
+    year: 2000
+    rating: 9.3
+    director: 姜文 Wen Jiang
+    actors: 姜文 Wen Jiang / 香川照之 Teruyuki Kagawa /
+    tmdb_id: 25838
+  - rank: 44
+    title_cn: 摔跤吧！爸爸
+    title_en: / Dangal
+    year: 2016
+    rating: 9.0
+    director: 涅提·蒂瓦里 Nitesh Tiwari
+    actors: 阿米尔·汗 Aamir Khan / 法缇玛
+    tmdb_id: 360814
+  - rank: 45
+    title_cn: 少年派的奇幻漂流
+    title_en: / Life of Pi
+    year: 2012
+    rating: 9.1
+    director: 李安 Ang Lee
+    actors: 苏拉·沙玛 Suraj Sharma / 伊尔凡·可汗 Irrfan
+    tmdb_id: 87827
+  - rank: 46
+    title_cn: 钢琴家
+    title_en: / The Pianist
+    year: 2002
+    rating: 9.3
+    director: 罗曼·波兰斯基 Roman Polanski
+    actors: 艾德里安·布洛迪 Adrien Brod
+    tmdb_id: 423
+  - rank: 47
+    title_cn: 指环王2：双塔奇兵
+    title_en: '/ The Lord of the Rings: The Two Towers'
+    year: 2002
+    rating: 9.2
+    director: 彼得·杰克逊 Peter Jackson
+    actors: 伊利亚·伍德 Elijah Wood / 西恩
+    tmdb_id: 121
+  - rank: 48
+    title_cn: 死亡诗社
+    title_en: / Dead Poets Society
+    year: 1989
+    rating: 9.2
+    director: 彼得·威尔 Peter Weir
+    actors: 罗宾·威廉姆斯 Robin Williams / 罗伯
+    tmdb_id: 207
+  - rank: 49
+    title_cn: 大话西游之月光宝盒
+    title_en: / 西遊記第壹佰零壹回之月光寶盒
+    year: 1995
+    rating: 9.0
+    director: 刘镇伟 Jeffrey Lau
+    actors: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng
+    tmdb_id: 13345
+  - rank: 50
+    title_cn: 何以为家
+    title_en: / كفرناحوم
+    year: 2018
+    rating: 9.1
+    director: 娜丁·拉巴基 Nadine Labaki
+    actors: 扎因·拉费阿 Zain al-Rafeea /
+    tmdb_id: 517814
+  - rank: 51
+    title_cn: 闻香识女人
+    title_en: / Scent of a Woman
+    year: 1992
+    rating: 9.1
+    director: 马丁·布莱斯 Martin Brest
+    actors: 阿尔·帕西诺 Al Pacino / 克里斯
+    tmdb_id: 9475
+  - rank: 52
+    title_cn: 绿皮书
+    title_en: / Green Book
+    year: 2018
+    rating: 8.9
+    director: 彼得·法雷里 Peter Farrelly
+    actors: 维果·莫腾森 Viggo Mortensen /
+    tmdb_id: 490132
+  - rank: 53
+    title_cn: 大闹天宫
+    title_en: / 大闹天宫 上下集  /  The Monkey King
+    year: 1961
+    rating: 9.4
+    director: 万籁鸣 Laiming Wan
+    actors: 邱岳峰 Yuefeng Qiu / 富润生 Runsheng Fu
+    tmdb_id: 47759
+  - rank: 54
+    title_cn: 黑客帝国
+    title_en: / The Matrix
+    year: 1999
+    rating: 9.1
+    director: 安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski
+    actors: ''
+    tmdb_id: 603
+  - rank: 55
+    title_cn: 指环王1：护戒使者
+    title_en: '/ The Lord of the Rings: The Fellowship of the Ring'
+    year: 2001
+    rating: 9.1
+    director: 彼得·杰克逊 Peter Jackson
+    actors: 伊利亚·伍德 Elijah Wood / 西恩
+    tmdb_id: 120
+  - rank: 56
+    title_cn: 罗马假日
+    title_en: / Roman Holiday
+    year: 1953
+    rating: 9.1
+    director: 威廉·惠勒 William Wyler
+    actors: 奥黛丽·赫本 Audrey Hepburn / 格
+    tmdb_id: 804
+  - rank: 57
+    title_cn: 教父2
+    title_en: '/ The Godfather: Part II'
+    year: 1974
+    rating: 9.3
+    director: 弗朗西斯·福特·科波拉 Francis Ford Coppola
+    actors: 阿尔·帕西诺 A
+    tmdb_id: 240
+  - rank: 58
+    title_cn: 狮子王
+    title_en: / The Lion King
+    year: 1994
+    rating: 9.1
+    director: Roger Allers / 罗伯·明可夫 Rob Minkoff
+    actors: 乔纳森·泰勒·托马
+    tmdb_id: 8587
+  - rank: 59
+    title_cn: 天堂电影院
+    title_en: / Nuovo Cinema Paradiso
+    year: 1988
+    rating: 9.2
+    director: 朱塞佩·托纳多雷 Giuseppe Tornatore
+    actors: 菲利普·努瓦雷 Philipp
+    tmdb_id: 11216
+  - rank: 60
+    title_cn: 饮食男女
+    title_en: / 飲食男女
+    year: 1994
+    rating: 9.2
+    director: 李安 Ang Lee
+    actors: 郎雄 Sihung Lung / 杨贵媚 Kuei-Mei Yang / 吴
+    tmdb_id: 10451
+  - rank: 61
+    title_cn: 辩护人
+    title_en: / 변호인
+    year: 2013
+    rating: 9.2
+    director: 杨宇硕 Woo-seok Yang
+    actors: 宋康昊 Kang-ho Song / 金英爱 Yeong-ae
+    tmdb_id: 242452
+  - rank: 62
+    title_cn: 搏击俱乐部
+    title_en: / Fight Club
+    year: 1999
+    rating: 9.0
+    director: 大卫·芬奇 David Fincher
+    actors: 爱德华·诺顿 Edward Norton / 布拉
+    tmdb_id: 550
+  - rank: 63
+    title_cn: 本杰明·巴顿奇事
+    title_en: / The Curious Case of Benjamin Button
+    year: 2008
+    rating: 9.0
+    director: 大卫·芬奇 David Fincher
+    actors: 凯特·布兰切特 Cate Blanchett /
+    tmdb_id: 4922
+  - rank: 64
+    title_cn: 美丽心灵
+    title_en: / A Beautiful Mind
+    year: 2001
+    rating: 9.1
+    director: 朗·霍华德 Ron Howard
+    actors: 罗素·克劳 Russell Crowe / 艾德·哈
+    tmdb_id: 453
+  - rank: 65
+    title_cn: 穿条纹睡衣的男孩
+    title_en: / The Boy in the Striped Pajamas
+    year: 2008
+    rating: 9.2
+    director: 马克·赫尔曼 Mark Herman
+    actors: 阿萨·巴特菲尔德 Asa Butterfield
+    tmdb_id: 14574
+  - rank: 66
+    title_cn: 情书
+    title_en: / Love Letter
+    year: 1995
+    rating: 8.9
+    director: 岩井俊二 Shunji Iwai
+    actors: 中山美穗 Miho Nakayama / 丰川悦司 Ets
+    tmdb_id: 47002
+  - rank: 67
+    title_cn: 两杆大烟枪
+    title_en: / Lock, Stock and Two Smoking Barrels
+    year: 1998
+    rating: 9.1
+    director: 盖·里奇 Guy Ritchie
+    actors: 杰森·弗莱明 Jason Flemyng / 德克斯特
+    tmdb_id: 100
+  - rank: 68
+    title_cn: 窃听风暴
+    title_en: / Das Leben der Anderen
+    year: 2006
+    rating: 9.2
+    director: "弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck  &n...\n       \
+      \                     2006 / 德国 / 剧情 悬疑"
+    actors: ''
+    tmdb_id: 582
+  - rank: 69
+    title_cn: 哈利·波特与死亡圣器(下)
+    title_en: '/ Harry Potter and the Deathly Hallows: Part 2'
+    year: 2011
+    rating: 9.0
+    director: 大卫·叶茨 David Yates
+    actors: 丹尼尔·雷德克里夫 Daniel Radcliffe
+    tmdb_id: 12445
+  - rank: 70
+    title_cn: 音乐之声
+    title_en: / The Sound of Music
+    year: 1965
+    rating: 9.1
+    director: 罗伯特·怀斯 Robert Wise
+    actors: 朱莉·安德鲁斯 Julie Andrews / 克
+    tmdb_id: 15121
+  - rank: 71
+    title_cn: 西西里的美丽传说
+    title_en: / Malèna
+    year: 2000
+    rating: 8.9
+    director: 朱塞佩·托纳多雷 Giuseppe Tornatore
+    actors: 莫妮卡·贝鲁奇 Monica
+    tmdb_id: 10867
+  - rank: 72
+    title_cn: 功夫
+    title_en: / 功夫3D  /  Kung Fu Hustle
+    year: 2004
+    rating: 8.9
+    director: 周星驰 Stephen Chow
+    actors: 周星驰 Stephen Chow / 元秋 Qiu Yuen /
+    tmdb_id: 9470
+  - rank: 73
+    title_cn: 阿凡达
+    title_en: / Avatar
+    year: 2009
+    rating: 8.8
+    director: 詹姆斯·卡梅隆 James Cameron
+    actors: 萨姆·沃辛顿 Sam Worthington
+    tmdb_id: 19995
+  - rank: 74
+    title_cn: 哈利·波特与阿兹卡班的囚徒
+    title_en: / Harry Potter and the Prisoner of Azkaban
+    year: 2004
+    rating: 9.0
+    director: 阿方索·卡隆 Alfonso Cuarón
+    actors: 丹尼尔·雷德克里夫 Daniel Rad
+    tmdb_id: 673
+  - rank: 75
+    title_cn: 看不见的客人
+    title_en: / Contratiempo
+    year: 2016
+    rating: 8.8
+    director: 奥里奥尔·保罗 Oriol Paulo
+    actors: 马里奥·卡萨斯 Mario Casas / 阿
+    tmdb_id: 411088
+  - rank: 76
+    title_cn: 拯救大兵瑞恩
+    title_en: / Saving Private Ryan
+    year: 1998
+    rating: 9.1
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 汤姆·汉克斯 Tom Hanks
+    tmdb_id: 857
+  - rank: 77
+    title_cn: 沉默的羔羊
+    title_en: / The Silence of the Lambs
+    year: 1991
+    rating: 8.9
+    director: 乔纳森·戴米 Jonathan Demme
+    actors: 朱迪·福斯特 Jodie Foster / 安
+    tmdb_id: 274
+  - rank: 78
+    title_cn: 小鞋子
+    title_en: / بچه های آسمان
+    year: 1997
+    rating: 9.2
+    director: 马基德·马基迪 Majid Majidi
+    actors: 默罕默德·阿米尔·纳吉 Mohamma
+    tmdb_id: 21334
+  - rank: 79
+    title_cn: 飞越疯人院
+    title_en: / One Flew Over the Cuckoo's Nest
+    year: 1975
+    rating: 9.1
+    director: 米洛斯·福尔曼 Miloš Forman
+    actors: 杰克·尼科尔森 Jack Nichols
+    tmdb_id: 510
+  - rank: 80
+    title_cn: 布达佩斯大饭店
+    title_en: / The Grand Budapest Hotel
+    year: 2014
+    rating: 8.9
+    director: 韦斯·安德森 Wes Anderson
+    actors: 拉尔夫·费因斯 Ralph Fiennes /
+    tmdb_id: 120467
+  - rank: 81
+    title_cn: 蝴蝶效应
+    title_en: / The Butterfly Effect
+    year: 2004
+    rating: 8.9
+    director: 埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber
+    actors: ''
+    tmdb_id: 1954
+  - rank: 82
+    title_cn: 禁闭岛
+    title_en: / Shutter Island
+    year: 2010
+    rating: 8.9
+    director: Martin Scorsese
+    actors: 莱昂纳多·迪卡普里奥 Leonardo DiCaprio /
+    tmdb_id: 11324
+  - rank: 83
+    title_cn: 致命魔术
+    title_en: / The Prestige
+    year: 2006
+    rating: 8.9
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 休·杰克曼 Hugh Jackman
+    tmdb_id: 1124
+  - rank: 84
+    title_cn: 心灵捕手
+    title_en: / Good Will Hunting
+    year: 1997
+    rating: 9.0
+    director: 格斯·范·桑特 Gus Van Sant
+    actors: 马特·达蒙 Matt Damon / 罗宾·
+    tmdb_id: 489
+  - rank: 85
+    title_cn: 低俗小说
+    title_en: / Pulp Fiction
+    year: 1994
+    rating: 8.9
+    director: 昆汀·塔伦蒂诺 Quentin Tarantino
+    actors: 约翰·特拉沃尔塔 John Tra
+    tmdb_id: 680
+  - rank: 86
+    title_cn: 超脱
+    title_en: / Detachment
+    year: 2011
+    rating: 9.0
+    director: 托尼·凯耶 Tony Kaye
+    actors: 艾德里安·布洛迪 Adrien Brody / 马西
+    tmdb_id: 74308
+  - rank: 87
+    title_cn: 哈利·波特与密室
+    title_en: / Harry Potter and the Chamber of Secrets
+    year: 2002
+    rating: 8.9
+    director: Chris Columbus
+    actors: 丹尼尔·雷德克里夫 Daniel Radcliffe / 艾玛
+    tmdb_id: 672
+  - rank: 88
+    title_cn: 摩登时代
+    title_en: / Modern Times
+    year: 1936
+    rating: 9.3
+    director: 查理·卓别林 Charles Chaplin
+    actors: 查理·卓别林 Charles Chaplin
+    tmdb_id: 3082
+  - rank: 89
+    title_cn: 喜剧之王
+    title_en: / 喜劇之王
+    year: 1999
+    rating: 8.8
+    director: 周星驰 Stephen Chow / 李力持 Lik-Chi Lee
+    actors: 周星驰 Stephen Ch
+    tmdb_id: 53168
+  - rank: 90
+    title_cn: 杀人回忆
+    title_en: / 살인의 추억
+    year: 2003
+    rating: 8.9
+    director: 奉俊昊 Joon-ho Bong
+    actors: 宋康昊 Kang-ho Song / 金相庆 Sang-kyun
+    tmdb_id: 11423
+  - rank: 91
+    title_cn: 致命ID
+    title_en: / Identity
+    year: 2003
+    rating: 8.9
+    director: 詹姆斯·曼高德 James Mangold
+    actors: 约翰·库萨克 John Cusack / 雷
+    tmdb_id: 2832
+  - rank: 92
+    title_cn: 春光乍泄
+    title_en: / 春光乍洩
+    year: 1997
+    rating: 9.0
+    director: 王家卫 Kar Wai Wong
+    actors: 张国荣 Leslie Cheung / 梁朝伟 Tony Leu
+    tmdb_id: 18329
+  - rank: 93
+    title_cn: 一一
+    title_en: '/ Yi yi  /  Yi yi: A One and a Two'
+    year: 2000
+    rating: 9.1
+    director: 杨德昌 Edward Yang
+    actors: 吴念真 / 李凯莉 Kelly Lee / 金燕玲 Elai
+    tmdb_id: 25538
+  - rank: 94
+    title_cn: 海豚湾
+    title_en: / The Cove
+    year: 2009
+    rating: 9.3
+    director: 路易·西霍尤斯 Louie Psihoyos
+    actors: 路易·西霍尤斯 Louie Psihoyo
+    tmdb_id: 23128
+  - rank: 95
+    title_cn: 美国往事
+    title_en: / Once Upon a Time in America
+    year: 1984
+    rating: 9.1
+    director: 赛尔乔·莱翁内 Sergio Leone
+    actors: 罗伯特·德尼罗 Robert De Niro
+    tmdb_id: 311
+  - rank: 96
+    title_cn: 加勒比海盗
+    title_en: '/ Pirates of the Caribbean: The Curse of the Black Pearl'
+    year: 2003
+    rating: 8.8
+    director: 戈尔·维宾斯基 Gore Verbinski
+    actors: 约翰尼·德普 Johnny Depp /
+    tmdb_id: 22
+  - rank: 97
+    title_cn: 红辣椒
+    title_en: / パプリカ
+    year: 2006
+    rating: 9.0
+    director: 今敏 Satoshi Kon
+    actors: 林原惠美 Megumi Hayashibara / 江守彻 Toru
+    tmdb_id: 4977
+  - rank: 98
+    title_cn: 还有明天
+    title_en: / C'è ancora domani
+    year: 2023
+    rating: 9.4
+    director: 宝拉·柯特莱西 Paola Cortellesi
+    actors: 宝拉·柯特莱西 Paola Corte
+    tmdb_id: 1026227
+  - rank: 99
+    title_cn: 七宗罪
+    title_en: / Se7en
+    year: 1995
+    rating: 8.8
+    director: 大卫·芬奇 David Fincher
+    actors: 摩根·弗里曼 Morgan Freeman / 布
+    tmdb_id: 807
+  - rank: 100
+    title_cn: 唐伯虎点秋香
+    title_en: / 唐伯虎點秋香
+    year: 1993
+    rating: 8.7
+    director: 李力持 Lik-Chi Lee
+    actors: 周星驰 Stephen Chow / 巩俐 Li Gong / 陈
+    tmdb_id: 37703
+  - rank: 101
+    title_cn: 狩猎
+    title_en: / Jagten
+    year: 2012
+    rating: 9.1
+    director: 托马斯·温特伯格 Thomas Vinterberg
+    actors: 麦斯·米科尔森 Mads Mik
+    tmdb_id: 69504
+  - rank: 102
+    title_cn: 幽灵公主
+    title_en: / もののけ姫
+    year: 1997
+    rating: 8.9
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 松田洋治 Yôji Matsuda / 石田百合
+    tmdb_id: 128
+  - rank: 103
+    title_cn: 甜蜜蜜
+    title_en: '/ Comrades: Almost a Love Story'
+    year: 1996
+    rating: 8.9
+    director: 陈可辛 Peter Chan
+    actors: 黎明 Leon Lai / 张曼玉 Maggie Cheung /
+    tmdb_id: 37185
+  - rank: 104
+    title_cn: 蝙蝠侠：黑暗骑士崛起
+    title_en: / The Dark Knight Rises
+    year: 2012
+    rating: 8.9
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 克里斯蒂安·贝尔 Christ
+    tmdb_id: 49026
+  - rank: 105
+    title_cn: 7号房的礼物
+    title_en: / 7번방의 선물
+    year: 2013
+    rating: 8.9
+    director: 李焕庆 Hwan-kyeong Lee
+    actors: 柳承龙 Seung-yong Ryoo / 朴信惠 Shi
+    tmdb_id: 158445
+  - rank: 106
+    title_cn: 寄生虫
+    title_en: / 기생충
+    year: 2019
+    rating: 8.8
+    director: 奉俊昊 Joon-ho Bong
+    actors: 宋康昊 Kang-ho Song / 李善均 Seon-gyun
+    tmdb_id: 1100466
+  - rank: 107
+    title_cn: 天书奇谭
+    title_en: / 天书奇谭4K纪念版  /  The Legend of Sealed Book
+    year: 1983
+    rating: 9.2
+    director: 王树忱 Shuchen Wang / 钱运达 Yunda Qian
+    actors: 丁建华 Jianhua Din
+    tmdb_id: 134575
+  - rank: 108
+    title_cn: 超能陆战队
+    title_en: / Big Hero 6
+    year: 2014
+    rating: 8.8
+    director: 唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams
+    actors: 斯科特
+    tmdb_id: 177572
+  - rank: 109
+    title_cn: 爱在黎明破晓前
+    title_en: / Before Sunrise
+    year: 1995
+    rating: 8.8
+    director: 理查德·林克莱特 Richard Linklater
+    actors: 伊桑·霍克 Ethan Hawke
+    tmdb_id: 76
+  - rank: 110
+    title_cn: 第六感
+    title_en: / The Sixth Sense
+    year: 1999
+    rating: 8.9
+    director: M·奈特·沙马兰 M. Night Shyamalan
+    actors: 布鲁斯·威利斯 Bruce Wi
+    tmdb_id: 745
+  - rank: 111
+    title_cn: 被嫌弃的松子的一生
+    title_en: / 嫌われ松子の一生
+    year: 2006
+    rating: 8.8
+    director: 中岛哲也 Tetsuya Nakashima
+    actors: 中谷美纪 Miki Nakatani / 瑛太 E
+    tmdb_id: 31512
+  - rank: 112
+    title_cn: 爱在日落黄昏时
+    title_en: / Before Sunset
+    year: 2004
+    rating: 8.9
+    director: 理查德·林克莱特 Richard Linklater
+    actors: 伊桑·霍克 Ethan Hawke
+    tmdb_id: 80
+  - rank: 113
+    title_cn: 重庆森林
+    title_en: / 重慶森林
+    year: 1994
+    rating: 8.8
+    director: 王家卫 Kar Wai Wong
+    actors: 林青霞 Brigitte Lin / 金城武 Takeshi K
+    tmdb_id: 11104
+  - rank: 114
+    title_cn: 入殓师
+    title_en: / おくりびと
+    year: 2008
+    rating: 8.9
+    director: 泷田洋二郎 Yôjirô Takita
+    actors: 本木雅弘 Masahiro Motoki /
+    tmdb_id: 16804
+  - rank: 115
+    title_cn: 未麻的部屋
+    title_en: / Perfect Blue
+    year: 1997
+    rating: 9.1
+    director: 今敏 Satoshi Kon
+    actors: 岩男润子 Junko Iwao / 松本梨香 Rica Matsu
+    tmdb_id: 10494
+  - rank: 116
+    title_cn: 剪刀手爱德华
+    title_en: / Edward Scissorhands
+    year: 1990
+    rating: 8.7
+    director: 蒂姆·波顿 Tim Burton
+    actors: 约翰尼·德普 Johnny Depp / 薇诺娜·
+    tmdb_id: 162
+  - rank: 117
+    title_cn: 茶馆
+    title_en: / The Teahouse
+    year: 1982
+    rating: 9.6
+    director: 谢添 Tian Xie
+    actors: 于是之 Shizhi Yu / 郑榕 Rong Zhen / 蓝天野 T
+    tmdb_id: 526431
+  - rank: 118
+    title_cn: 断背山
+    title_en: / Brokeback Mountain
+    year: 2005
+    rating: 8.8
+    director: 李安 Ang Lee
+    actors: 希斯·莱杰 Heath Ledger / 杰克·吉伦哈尔 Jake
+    tmdb_id: 142
+  - rank: 119
+    title_cn: 哈利·波特与火焰杯
+    title_en: / Harry Potter and the Goblet of Fire
+    year: 2005
+    rating: 8.8
+    director: 迈克·内威尔 Mike Newell
+    actors: 丹尼尔·雷德克里夫 Daniel Radclif
+    tmdb_id: 674
+  - rank: 120
+    title_cn: 菊次郎的夏天
+    title_en: / 菊次郎の夏
+    year: 1999
+    rating: 8.9
+    director: 北野武 Takeshi Kitano
+    actors: 北野武 Takeshi Kitano / 关口雄介 Yus
+    tmdb_id: 4291
+  - rank: 121
+    title_cn: 借东西的小人阿莉埃蒂
+    title_en: / 借りぐらしのアリエッティ
+    year: 2010
+    rating: 8.9
+    director: 米林宏昌 Hiromasa Yonebayashi
+    actors: 志田未来 Mirai Shida / 神木
+    tmdb_id: 51739
+  - rank: 122
+    title_cn: 勇敢的心
+    title_en: / Braveheart
+    year: 1995
+    rating: 8.9
+    director: 梅尔·吉布森 Mel Gibson
+    actors: 梅尔·吉布森 Mel Gibson / 苏菲·玛
+    tmdb_id: 197
+  - rank: 123
+    title_cn: 头脑特工队
+    title_en: / Inside Out
+    year: 2015
+    rating: 8.8
+    director: "彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen  &nb...\n      \
+      \                      2015 / 美国 / 喜剧 动画 冒险"
+    actors: ''
+    tmdb_id: 355338
+  - rank: 124
+    title_cn: 时空恋旅人
+    title_en: / About Time
+    year: 2013
+    rating: 8.8
+    director: 理查德·柯蒂斯 Richard Curtis
+    actors: 多姆纳尔·格里森 Domhnall Gl
+    tmdb_id: 122906
+  - rank: 125
+    title_cn: 无人知晓
+    title_en: / 誰も知らない
+    year: 2004
+    rating: 9.1
+    director: 是枝裕和 Hirokazu Koreeda
+    actors: 柳乐优弥 Yûya Yagira / 北浦爱
+    tmdb_id: 2517
+  - rank: 126
+    title_cn: 消失的爱人
+    title_en: / Gone Girl
+    year: 2014
+    rating: 8.7
+    director: 大卫·芬奇 David Fincher
+    actors: 本·阿弗莱克 Ben Affleck / 罗莎蒙
+    tmdb_id: 210577
+  - rank: 127
+    title_cn: 倩女幽魂
+    title_en: / 倩女幽魂(87版)  /  倩女幽魂：妖魔道
+    year: 1987
+    rating: 8.8
+    director: 程小东 Siu-Tung Ching
+    actors: 张国荣 Leslie Cheung / 王祖贤 Joey W
+    tmdb_id: 30421
+  - rank: 128
+    title_cn: 驯龙高手
+    title_en: / How to Train Your Dragon
+    year: 2010
+    rating: 8.8
+    director: 迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders
+    actors: ''
+    tmdb_id: 10191
+  - rank: 129
+    title_cn: 完美的世界
+    title_en: / A Perfect World
+    year: 1993
+    rating: 9.1
+    director: 克林特·伊斯特伍德 Clint Eastwood
+    actors: 凯文·科斯特纳 Kevin Cos
+    tmdb_id: 9559
+  - rank: 130
+    title_cn: 花样年华
+    title_en: / 花樣年華
+    year: 2000
+    rating: 8.8
+    director: 王家卫 Kar Wai Wong
+    actors: 张曼玉 Maggie Cheung / 梁朝伟 Tony Leu
+    tmdb_id: 843
+  - rank: 131
+    title_cn: 阳光灿烂的日子
+    title_en: / In the Heat of the Sun
+    year: 1994
+    rating: 8.8
+    director: 姜文 Wen Jiang
+    actors: "夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao\n                            1994 / 中国大陆\
+      \ 中国香港 / 剧情 爱情"
+    tmdb_id: 161285
+  - rank: 132
+    title_cn: 新世界
+    title_en: / 신세계
+    year: 2013
+    rating: 8.9
+    director: 朴勋政 Hoon-jung Park
+    actors: 李政宰 Jung-Jae Lee / 崔岷植 Min-sik
+    tmdb_id: 165213
+  - rank: 133
+    title_cn: 小森林 夏秋篇
+    title_en: / リトル・フォレスト 夏・秋
+    year: 2014
+    rating: 9.0
+    director: 森淳一 Junichi Mori
+    actors: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir
+    tmdb_id: 294682
+  - rank: 134
+    title_cn: 天使爱美丽
+    title_en: / Le Fabuleux destin d'Amélie Poulain
+    year: 2001
+    rating: 8.7
+    director: 让-皮埃尔·热内 Jean-Pierre Jeunet
+    actors: 奥黛丽·塔图 Audrey Tau
+    tmdb_id: 194
+  - rank: 135
+    title_cn: 傲慢与偏见
+    title_en: / Pride & Prejudice
+    year: 2005
+    rating: 8.7
+    director: 乔·怀特 Joe Wright
+    actors: 凯拉·奈特莉 Keira Knightley / 马修·
+    tmdb_id: 4348
+  - rank: 136
+    title_cn: 一个叫欧维的男人决定去死
+    title_en: / En man som heter Ove
+    year: 2015
+    rating: 8.9
+    director: 汉内斯·赫尔姆 Hannes Holm
+    actors: 罗夫·拉斯加德 Rolf Lassgård
+    tmdb_id: 348678
+  - rank: 137
+    title_cn: 侧耳倾听
+    title_en: / 耳をすませば
+    year: 1995
+    rating: 8.9
+    director: 近藤喜文 Yoshifumi Kondo
+    actors: 本名阳子 Youko Honna / 小林桂树 K
+    tmdb_id: 37797
+  - rank: 138
+    title_cn: 玩具总动员3
+    title_en: / Toy Story 3
+    year: 2010
+    rating: 8.9
+    director: 李·昂克里奇 Lee Unkrich
+    actors: 汤姆·汉克斯 Tom Hanks / 蒂姆·艾
+    tmdb_id: 10193
+  - rank: 139
+    title_cn: 怪兽电力公司
+    title_en: / Monsters, Inc.
+    year: 2001
+    rating: 8.8
+    director: 彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman
+    actors: 约
+    tmdb_id: 585
+  - rank: 140
+    title_cn: 教父3
+    title_en: '/ The Godfather: Part III'
+    year: 1990
+    rating: 9.0
+    director: 弗朗西斯·福特·科波拉 Francis Ford Coppola
+    actors: 阿尔·帕西诺 A
+    tmdb_id: 242
+  - rank: 141
+    title_cn: 请以你的名字呼唤我
+    title_en: / Call Me by Your Name
+    year: 2017
+    rating: 8.8
+    director: 卢卡·瓜达尼诺 Luca Guadagnino
+    actors: 艾米·汉莫 Armie Hammer /
+    tmdb_id: 398818
+  - rank: 142
+    title_cn: 色，戒
+    title_en: / 色|戒  /  色·戒
+    year: 2007
+    rating: 8.7
+    director: 李安 Ang Lee
+    actors: 梁朝伟 Tony Leung Chiu Wai / 汤唯 Wei Tang /
+    tmdb_id: 4588
+  - rank: 143
+    title_cn: 幸福终点站
+    title_en: / The Terminal
+    year: 2004
+    rating: 8.8
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 汤姆·汉克斯 Tom Hanks
+    tmdb_id: 594
+  - rank: 144
+    title_cn: 哪吒闹海
+    title_en: / Prince Nezha's Triumph Against Dragon King  /  Nezha Conquers the
+      Dragon King
+    year: 1979
+    rating: 9.2
+    director: 王树忱 Shuchen Wang / 严定宪 Dingxian Yan
+    actors: 梁正晖 Zhenghui
+    tmdb_id: 74037
+  - rank: 145
+    title_cn: 被解救的姜戈
+    title_en: / Django Unchained
+    year: 2012
+    rating: 8.8
+    director: 昆汀·塔伦蒂诺 Quentin Tarantino
+    actors: 杰米·福克斯 Jamie Foxx /
+    tmdb_id: 68718
+  - rank: 146
+    title_cn: 九品芝麻官
+    title_en: / 九品芝麻官之白面包青天  /  Hail the Judge
+    year: 1994
+    rating: 8.8
+    director: 王晶 Jing Wong
+    actors: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng /
+    tmdb_id: 55156
+  - rank: 147
+    title_cn: 小森林 冬春篇
+    title_en: / リトル・フォレスト 冬・春
+    year: 2015
+    rating: 9.0
+    director: 森淳一 Junichi Mori
+    actors: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir
+    tmdb_id: 336026
+  - rank: 148
+    title_cn: 釜山行
+    title_en: / 부산행
+    year: 2016
+    rating: 8.6
+    director: 延尚昊 Sang-ho Yeon
+    actors: 孔侑 Yoo Gong / 郑有美 Yu-mi Jung / 马
+    tmdb_id: 396535
+  - rank: 149
+    title_cn: 神偷奶爸
+    title_en: / Despicable Me
+    year: 2010
+    rating: 8.7
+    director: 皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud
+    actors: ''
+    tmdb_id: 20352
+  - rank: 150
+    title_cn: 萤火之森
+    title_en: / 蛍火の杜へ
+    year: 2011
+    rating: 8.8
+    director: 大森贵弘 Takahiro Omori
+    actors: 佐仓绫音 Ayane Sakura / 内山昂辉 K
+    tmdb_id: 92321
+  - rank: 151
+    title_cn: 喜宴
+    title_en: / 囍宴
+    year: 1993
+    rating: 9.0
+    director: 李安 Ang Lee
+    actors: 赵文瑄 Winston Chao / 归亚蕾 Ya-lei Kuei / 郎
+    tmdb_id: 9261
+  - rank: 152
+    title_cn: 告白
+    title_en: / 自白  /  母亲
+    year: 2010
+    rating: 8.8
+    director: 中岛哲也 Tetsuya Nakashima
+    actors: 松隆子 Takako Matsu / 冈田将生
+    tmdb_id: 54186
+  - rank: 153
+    title_cn: 头号玩家
+    title_en: / Ready Player One
+    year: 2018
+    rating: 8.6
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 泰伊·谢里丹 Tye Sheri
+    tmdb_id: 333339
+  - rank: 154
+    title_cn: 玛丽和麦克斯
+    title_en: / Mary and Max
+    year: 2009
+    rating: 9.0
+    director: 亚当·艾略特 Adam Elliot
+    actors: 托妮·科莱特 Toni Collette / 菲利
+    tmdb_id: 24238
+  - rank: 155
+    title_cn: 七武士
+    title_en: / 七人の侍
+    year: 1954
+    rating: 9.3
+    director: 黑泽明 Akira Kurosawa
+    actors: 三船敏郎 Toshirô Mifune / 志村乔
+    tmdb_id: 346
+  - rank: 156
+    title_cn: 模仿游戏
+    title_en: / The Imitation Game
+    year: 2014
+    rating: 8.8
+    director: 莫滕·泰杜姆 Morten Tyldum
+    actors: 本尼迪克特·康伯巴奇 Benedict C
+    tmdb_id: 205596
+  - rank: 157
+    title_cn: 大鱼
+    title_en: / Big Fish
+    year: 2003
+    rating: 8.8
+    director: 蒂姆·波顿 Tim Burton
+    actors: 伊万·麦克格雷格 Ewan McGregor / 阿
+    tmdb_id: 587
+  - rank: 158
+    title_cn: 惊魂记
+    title_en: / Psycho
+    year: 1960
+    rating: 9.0
+    director: 阿尔弗雷德·希区柯克 Alfred Hitchcock
+    actors: 安东尼·博金斯 Antho
+    tmdb_id: 539
+  - rank: 159
+    title_cn: 射雕英雄传之东成西就
+    title_en: / 射鵰英雄傳之東成西就
+    year: 1993
+    rating: 8.7
+    director: 刘镇伟 Jeffrey Lau
+    actors: 梁朝伟 Tony Leung Chiu Wai / 林青霞 Bri
+    tmdb_id: 55157
+  - rank: 160
+    title_cn: 血战钢锯岭
+    title_en: / Hacksaw Ridge
+    year: 2016
+    rating: 8.7
+    director: 梅尔·吉布森 Mel Gibson
+    actors: 安德鲁·加菲尔德 Andrew Garfield /
+    tmdb_id: 324786
+  - rank: 161
+    title_cn: 我是山姆
+    title_en: / I Am Sam
+    year: 2001
+    rating: 9.0
+    director: 杰茜·尼尔森 Jessie Nelson
+    actors: Sean Penn / Dakota Fanning / Mi
+    tmdb_id: 10950
+  - rank: 162
+    title_cn: 你的名字。
+    title_en: / 君の名は。
+    year: 2016
+    rating: 8.5
+    director: 新海诚 Makoto Shinkai
+    actors: 神木隆之介 Ryûnosuke Kamiki / 上
+    tmdb_id: 372058
+  - rank: 163
+    title_cn: 阳光姐妹淘
+    title_en: / 써니
+    year: 2011
+    rating: 8.8
+    director: 姜炯哲 Hyeong-Cheol Kang
+    actors: 沈恩京 Eun-kyung Shim / 闵孝琳 Hy
+    tmdb_id: 77117
+  - rank: 164
+    title_cn: 恐怖直播
+    title_en: / 더 테러 라이브
+    year: 2013
+    rating: 8.7
+    director: 金秉祐 Byeong-woo Kim
+    actors: 河正宇 Jung-woo Ha / 李璟荣 Kyeong-y
+    tmdb_id: 209764
+  - rank: 165
+    title_cn: 黑客帝国3：矩阵革命
+    title_en: / The Matrix Revolutions
+    year: 2003
+    rating: 8.8
+    director: "拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski   ...\n          \
+      \                  2003 / 美国 / 动作 科幻"
+    actors: ''
+    tmdb_id: 605
+  - rank: 166
+    title_cn: 背靠背，脸对脸
+    title_en: / 背对背，脸对脸  /  Back to Back, Face to Face
+    year: 1994
+    rating: 9.5
+    director: 黄建新 Jianxin Huang / 杨亚洲 Yazhou Yang
+    actors: 牛振华 Zhenhua N
+    tmdb_id: 295279
+  - rank: 167
+    title_cn: 心灵奇旅
+    title_en: / Soul
+    year: 2020
+    rating: 8.7
+    director: 彼特·道格特 Pete Docter / 凯普·鲍尔斯 Kemp Powers
+    actors: 杰米·
+    tmdb_id: 508442
+  - rank: 168
+    title_cn: 电锯惊魂
+    title_en: / Saw
+    year: 2004
+    rating: 8.7
+    director: 詹姆斯·温 James Wan
+    actors: 雷·沃纳尔 Leigh Whannell / 加利·艾
+    tmdb_id: 176
+  - rank: 169
+    title_cn: 三块广告牌
+    title_en: / Three Billboards Outside Ebbing, Missouri
+    year: 2017
+    rating: 8.7
+    director: 马丁·麦克唐纳 Martin McDonagh
+    actors: 弗兰西斯·麦克多蒙德 France
+    tmdb_id: 359940
+  - rank: 170
+    title_cn: 小丑
+    title_en: / Joker
+    year: 2019
+    rating: 8.7
+    director: 托德·菲利普斯 Todd Phillips
+    actors: 杰昆·菲尼克斯 Joaquin Phoeni
+    tmdb_id: 475557
+  - rank: 171
+    title_cn: 谍影重重3
+    title_en: / The Bourne Ultimatum
+    year: 2007
+    rating: 8.9
+    director: 保罗·格林格拉斯 Paul Greengrass
+    actors: 马特·达蒙 Matt Damon /
+    tmdb_id: 2503
+  - rank: 172
+    title_cn: 达拉斯买家俱乐部
+    title_en: / Dallas Buyers Club
+    year: 2013
+    rating: 8.8
+    director: 让-马克·瓦雷 Jean-Marc Vallée
+    actors: 马修·麦康纳 Matthew McCon
+    tmdb_id: 152532
+  - rank: 173
+    title_cn: 疯狂原始人
+    title_en: / The Croods
+    year: 2013
+    rating: 8.7
+    director: 科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders
+    actors: ''
+    tmdb_id: 49519
+  - rank: 174
+    title_cn: 无间道2
+    title_en: / 無間道II
+    year: 2003
+    rating: 8.8
+    director: 刘伟强 Andrew Lau / 麦兆辉 Alan Mak
+    actors: 陈冠希 Edison Chen /
+    tmdb_id: 14310
+  - rank: 175
+    title_cn: 绿里奇迹
+    title_en: / The Green Mile
+    year: 1999
+    rating: 8.9
+    director: 弗兰克·德拉邦特 Frank Darabont
+    actors: 汤姆·汉克斯 Tom Hanks /
+    tmdb_id: 497
+  - rank: 176
+    title_cn: 爱在午夜降临前
+    title_en: / Before Midnight
+    year: 2013
+    rating: 8.9
+    director: 理查德·林克莱特 Richard Linklater
+    actors: 伊桑·霍克 Ethan Hawke
+    tmdb_id: 132344
+  - rank: 177
+    title_cn: 海街日记
+    title_en: / 海街diary
+    year: 2015
+    rating: 8.8
+    director: 是枝裕和 Hirokazu Koreeda
+    actors: 绫濑遥 Haruka Ayase / 长泽雅美 M
+    tmdb_id: 315846
+  - rank: 178
+    title_cn: 风之谷
+    title_en: / 風の谷のナウシカ
+    year: 1984
+    rating: 8.9
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 岛本须美 Sumi Shimamoto / 松田洋治 Y
+    tmdb_id: 81
+  - rank: 179
+    title_cn: 上帝之城
+    title_en: / Cidade de Deus
+    year: 2002
+    rating: 9.0
+    director: "费尔南多·梅里尔斯 Fernando Meirelles / 卡迪亚·兰德 Kátia Lund  &nbsp...\n      \
+      \                      2002 / 巴西 法国 / 犯罪 剧情"
+    actors: ''
+    tmdb_id: 598
+  - rank: 180
+    title_cn: 疯狂的石头
+    title_en: / Crazy Stone
+    year: 2006
+    rating: 8.6
+    director: 宁浩 Hao Ning
+    actors: "郭涛 Tao Guo / 刘桦 Hua Liu / 连晋 Teddy Lin\n                            2006 / 中国大陆\
+      \ 中国香港 / 喜剧 犯罪"
+    tmdb_id: 45380
+  - rank: 181
+    title_cn: 英雄本色
+    title_en: / A Better Tomorrow  /  Gangland Boss
+    year: 1986
+    rating: 8.6
+    director: 吴宇森 John Woo
+    actors: 周润发 Yun-Fat Chow / 狄龙 Lung Ti / 张国
+    tmdb_id: 11471
+  - rank: 182
+    title_cn: 雨中曲
+    title_en: / Singin' in the Rain
+    year: 1952
+    rating: 9.1
+    director: 斯坦利·多南 Stanley Donen / 吉恩·凯利 Gene Kelly
+    actors: 吉恩·
+    tmdb_id: 872
+  - rank: 183
+    title_cn: 2001太空漫游
+    title_en: '/ 2001: A Space Odyssey'
+    year: 1968
+    rating: 8.9
+    director: 斯坦利·库布里克 Stanley Kubrick
+    actors: 凯尔·杜拉 Keir Dullea /
+    tmdb_id: 62
+  - rank: 184
+    title_cn: 心迷宫
+    title_en: / 殡棺  /  The Coffin in the Mountain
+    year: 2014
+    rating: 8.7
+    director: 忻钰坤 Yukun Xin
+    actors: 霍卫民 Weimin Huo / 王笑天 Xiaotian Wang
+    tmdb_id: 292362
+  - rank: 185
+    title_cn: 末路狂花
+    title_en: / Thelma & Louise
+    year: 1991
+    rating: 9.0
+    director: 雷德利·斯科特 Ridley Scott
+    actors: 吉娜·戴维斯 Geena Davis / 苏
+    tmdb_id: 1541
+  - rank: 186
+    title_cn: 纵横四海
+    title_en: / 緃横四海
+    year: 1991
+    rating: 8.8
+    director: 吴宇森 John Woo
+    actors: 周润发 Yun-Fat Chow / 张国荣 Leslie Cheung
+    tmdb_id: 47423
+  - rank: 187
+    title_cn: 记忆碎片
+    title_en: / Memento
+    year: 2000
+    rating: 8.7
+    director: 克里斯托弗·诺兰 Christopher Nolan
+    actors: 盖·皮尔斯 Guy Pearce /
+    tmdb_id: 77
+  - rank: 188
+    title_cn: 高山下的花环
+    title_en: / 卫国军魂(港)  /  Wreaths at the Foot of the Mountain
+    year: 1984
+    rating: 9.5
+    director: 谢晋 Jin Xie
+    actors: 吕晓禾 Xiaohe Lü / 唐国强 Guoqiang Tang / 何
+    tmdb_id: 258424
+  - rank: 189
+    title_cn: 卢旺达饭店
+    title_en: / Hotel Rwanda
+    year: 2004
+    rating: 8.9
+    director: 特瑞·乔治 Terry George
+    actors: 唐·钱德尔 Don Cheadle / 苏菲·奥
+    tmdb_id: 205
+  - rank: 190
+    title_cn: 无敌破坏王
+    title_en: / Wreck-It Ralph
+    year: 2012
+    rating: 8.7
+    director: 瑞奇·莫尔 Rich Moore
+    actors: 约翰·C·赖利 John C
+    tmdb_id: 82690
+  - rank: 191
+    title_cn: 小偷家族
+    title_en: / 万引き家族
+    year: 2018
+    rating: 8.7
+    director: 是枝裕和 Hirokazu Koreeda
+    actors: 中川雅也 Lily Franky / 安藤樱 Sa
+    tmdb_id: 505192
+  - rank: 192
+    title_cn: 冰川时代
+    title_en: / Ice Age
+    year: 2002
+    rating: 8.7
+    director: 卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge
+    actors: ''
+    tmdb_id: 425
+  - rank: 193
+    title_cn: 恐怖游轮
+    title_en: / Triangle
+    year: 2009
+    rating: 8.5
+    director: 克里斯托弗·史密斯 Christopher Smith
+    actors: 梅利莎·乔治 Melissa
+    tmdb_id: 26466
+  - rank: 194
+    title_cn: 东京教父
+    title_en: / 東京ゴッドファーザーズ
+    year: 2003
+    rating: 9.0
+    director: 今敏 Satoshi Kon
+    actors: 江守彻 Toru Emori / 梅垣义明 Yoshiaki Ume
+    tmdb_id: 13398
+  - rank: 195
+    title_cn: 牯岭街少年杀人事件
+    title_en: / 牯嶺街少年殺人事件
+    year: 1991
+    rating: 8.9
+    director: 杨德昌 Edward Yang
+    actors: 张震 Chen Chang / 杨静怡 Lisa Yang / 张
+    tmdb_id: 15804
+  - rank: 196
+    title_cn: 魔女宅急便
+    title_en: / 魔女の宅急便
+    year: 1989
+    rating: 8.7
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 高山南 Minami Takayama / 佐久间玲 Re
+    tmdb_id: 16859
+  - rank: 197
+    title_cn: 岁月神偷
+    title_en: / 歲月神偷
+    year: 2010
+    rating: 8.7
+    director: 罗启锐 Alex Law
+    actors: 吴君如 Sandra Ng / 任达华 Simon Yam / 钟绍
+    tmdb_id: 39693
+  - rank: 198
+    title_cn: 忠犬八公物语
+    title_en: / ハチ公物語
+    year: 1987
+    rating: 9.2
+    director: 神山征二郎 Seijirô Kôyama
+    actors: 仲代达矢 Tatsuya Nakadai /
+    tmdb_id: 31743
+  - rank: 199
+    title_cn: 荒蛮故事
+    title_en: / Relatos salvajes
+    year: 2014
+    rating: 8.7
+    director: 达米安·斯兹弗隆 Damián Szifron
+    actors: 达里奥·葛兰帝内提 Darío
+    tmdb_id: 265195
+  - rank: 200
+    title_cn: 遗愿清单
+    title_en: / The Bucket List
+    year: 2007
+    rating: 8.7
+    director: 罗伯·莱纳 Rob Reiner
+    actors: 杰克·尼科尔森 Jack Nicholson / 摩根
+    tmdb_id: 7350
+  - rank: 201
+    title_cn: 芙蓉镇
+    title_en: / Hibiscus Town
+    year: 1987
+    rating: 9.3
+    director: 谢晋 Jin Xie
+    actors: 刘晓庆 Xiaoqing Liu / 姜文 Wen Jiang / 郑在石
+    tmdb_id: 122973
+  - rank: 202
+    title_cn: 大佛普拉斯
+    title_en: / The Great Buddha+
+    year: 2017
+    rating: 8.7
+    director: 黄信尧 Hsin-yao Huang
+    actors: 庄益增 Yizeng Zhuang / 陈竹昇 Chu-sh
+    tmdb_id: 475149
+  - rank: 203
+    title_cn: 贫民窟的百万富翁
+    title_en: / Slumdog Millionaire
+    year: 2008
+    rating: 8.6
+    director: 丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan
+    actors: 戴夫
+    tmdb_id: 12405
+  - rank: 204
+    title_cn: 源代码
+    title_en: / Source Code
+    year: 2011
+    rating: 8.6
+    director: 邓肯·琼斯 Duncan Jones
+    actors: 杰克·吉伦哈尔 Jake Gyllenhaal /
+    tmdb_id: 45612
+  - rank: 205
+    title_cn: 疯狂的麦克斯4：狂暴之路
+    title_en: '/ Mad Max: Fury Road'
+    year: 2015
+    rating: 8.7
+    director: 乔治·米勒 George Miller
+    actors: 汤姆·哈迪 Tom Hardy / 查理兹·塞
+    tmdb_id: 76341
+  - rank: 206
+    title_cn: 你看起来好像很好吃
+    title_en: / おまえうまそうだな
+    year: 2010
+    rating: 8.9
+    director: 藤森雅也 Masaya Fujimori
+    actors: 山口胜平 Kappei Yamaguchi / 爱河
+    tmdb_id: 89825
+  - rank: 207
+    title_cn: 东邪西毒
+    title_en: / 東邪西毒
+    year: 1994
+    rating: 8.6
+    director: 王家卫 Kar Wai Wong
+    actors: 张国荣 Leslie Cheung / 林青霞 Brigitte
+    tmdb_id: 40751
+  - rank: 208
+    title_cn: 可可西里
+    title_en: '/ Kekexili: Mountain Patrol'
+    year: 2004
+    rating: 8.9
+    director: 陆川 Chuan Lu
+    actors: 多布杰 Duobujie / 张磊 Lei Zhang / 亓亮 Qi L
+    tmdb_id: 16074
+  - rank: 209
+    title_cn: 机器人之梦
+    title_en: / Robot Dreams
+    year: 2023
+    rating: 9.1
+    director: 巴勃罗·贝格尔 Pablo Berger
+    actors: 伊万·拉班达 Ivan Labanda / 阿
+    tmdb_id: 838240
+  - rank: 210
+    title_cn: 爆裂鼓手
+    title_en: / Whiplash
+    year: 2014
+    rating: 8.6
+    director: 达米恩·查泽雷 Damien Chazelle
+    actors: 迈尔斯·特勒 Miles Teller /
+    tmdb_id: 244786
+  - rank: 211
+    title_cn: 城市之光
+    title_en: / City Lights
+    year: 1931
+    rating: 9.3
+    director: 查理·卓别林 Charles Chaplin
+    actors: 查理·卓别林 Charles Chaplin
+    tmdb_id: 901
+  - rank: 212
+    title_cn: 波西米亚狂想曲
+    title_en: / Bohemian Rhapsody
+    year: 2018
+    rating: 8.6
+    director: 布莱恩·辛格 Bryan Singer
+    actors: 拉米·马雷克 Rami Malek / 本·哈
+    tmdb_id: 424694
+  - rank: 213
+    title_cn: 花束般的恋爱
+    title_en: / 花束みたいな恋をした
+    year: 2021
+    rating: 8.6
+    director: 土井裕泰 Nobuhiro Doi
+    actors: 菅田将晖 Masaki Suda / 有村架纯 Kasu
+    tmdb_id: 695932
+  - rank: 214
+    title_cn: 白日梦想家
+    title_en: / The Secret Life of Walter Mitty
+    year: 2013
+    rating: 8.6
+    director: 本·斯蒂勒 Ben Stiller
+    actors: 本·斯蒂勒 Ben Stiller / 克里斯汀·
+    tmdb_id: 116745
+  - rank: 215
+    title_cn: 爱乐之城
+    title_en: / La La Land
+    year: 2016
+    rating: 8.4
+    director: 达米恩·查泽雷 Damien Chazelle
+    actors: 瑞恩·高斯林 Ryan Gosling /
+    tmdb_id: 313369
+  - rank: 216
+    title_cn: 黑天鹅
+    title_en: / Black Swan
+    year: 2010
+    rating: 8.6
+    director: 达伦·阿罗诺夫斯基 Darren Aronofsky
+    actors: 娜塔莉·波特曼 Natalie
+    tmdb_id: 44214
+  - rank: 217
+    title_cn: 青蛇
+    title_en: / Green Snake
+    year: 1993
+    rating: 8.6
+    director: 徐克 Hark Tsui
+    actors: 张曼玉 Maggie Cheung / 王祖贤 Joey Wang /
+    tmdb_id: 39915
+  - rank: 218
+    title_cn: 哈利·波特与死亡圣器(上)
+    title_en: '/ Harry Potter and the Deathly Hallows: Part 1'
+    year: 2010
+    rating: 8.6
+    director: 大卫·叶茨 David Yates
+    actors: 丹尼尔·雷德克里夫 Daniel Radcliffe
+    tmdb_id: 12444
+  - rank: 219
+    title_cn: 终结者2：审判日
+    title_en: '/ Terminator 2: Judgment Day'
+    year: 1991
+    rating: 8.8
+    director: 詹姆斯·卡梅隆 James Cameron
+    actors: 阿诺·施瓦辛格 Arnold Schwarz
+    tmdb_id: 280
+  - rank: 220
+    title_cn: 无耻混蛋
+    title_en: / Inglourious Basterds
+    year: 2009
+    rating: 8.7
+    director: 昆汀·塔伦蒂诺 Quentin Tarantino
+    actors: 布拉德·皮特 Brad Pitt /
+    tmdb_id: 16869
+  - rank: 221
+    title_cn: 初恋这件小事
+    title_en: / สิ่งเล็กเล็กที่เรียกว่า...รัก
+    year: 2010
+    rating: 8.5
+    director: "普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...\n  \
+      \                          2010 / 泰国 / 剧情 喜剧 爱情"
+    actors: ''
+    tmdb_id: 57627
+  - rank: 222
+    title_cn: 新龙门客栈
+    title_en: / 新龍門客棧
+    year: 1992
+    rating: 8.7
+    director: 李惠民 Raymond Lee
+    actors: 张曼玉 Maggie Cheung / 林青霞 Brigitte
+    tmdb_id: 40213
+  - rank: 223
+    title_cn: 雨人
+    title_en: / Rain Man
+    year: 1988
+    rating: 8.7
+    director: 巴瑞·莱文森 Barry Levinson
+    actors: 达斯汀·霍夫曼 Dustin Hoffman
+    tmdb_id: 380
+  - rank: 224
+    title_cn: 人工智能
+    title_en: / A.I. Artificial Intelligence
+    year: 2001
+    rating: 8.7
+    director: 史蒂文·斯皮尔伯格 Steven Spielberg
+    actors: 海利·乔·奥斯蒙 Haley
+    tmdb_id: 644
+  - rank: 225
+    title_cn: 大红灯笼高高挂
+    title_en: / Raise The Red Lantern  /  Épouses et concubines
+    year: 1991
+    rating: 8.8
+    director: 张艺谋 Yimou Zhang
+    actors: 巩俐 Li Gong / 马精武 Jingwu Ma / 何赛
+    tmdb_id: 10404
+  - rank: 226
+    title_cn: 虎口脱险
+    title_en: / La grande vadrouille
+    year: 1966
+    rating: 8.9
+    director: 杰拉尔·乌里 Gérard Oury
+    actors: 路易·德·菲耐斯 Louis de Funès
+    tmdb_id: 8290
+  - rank: 227
+    title_cn: 崖上的波妞
+    title_en: / 崖の上のポニョ
+    year: 2008
+    rating: 8.6
+    director: 宫崎骏 Hayao Miyazaki
+    actors: 奈良柚莉爱 Yuria Nara / 土井洋辉 Hir
+    tmdb_id: 12429
+  - rank: 228
+    title_cn: 真爱至上
+    title_en: / Love Actually
+    year: 2003
+    rating: 8.5
+    director: 理查德·柯蒂斯 Richard Curtis
+    actors: 休·格兰特 Hugh Grant / 连姆
+    tmdb_id: 508
+  - rank: 229
+    title_cn: 千钧一发
+    title_en: / Gattaca
+    year: 1997
+    rating: 8.8
+    director: 安德鲁·尼科尔 Andrew Niccol
+    actors: 伊桑·霍克 Ethan Hawke / 乌玛
+    tmdb_id: 782
+  - rank: 230
+    title_cn: 罗生门
+    title_en: / 羅生門
+    year: 1950
+    rating: 8.8
+    director: 黑泽明 Akira Kurosawa
+    actors: 三船敏郎 Toshirô Mifune / 京町子
+    tmdb_id: 548
+  - rank: 231
+    title_cn: 恋恋笔记本
+    title_en: / The Notebook
+    year: 2004
+    rating: 8.5
+    director: 尼克·卡索维茨 Nick Cassavetes
+    actors: 瑞恩·高斯林 Ryan Gosling /
+    tmdb_id: 11036
+  - rank: 232
+    title_cn: 彗星来的那一夜
+    title_en: / Coherence
+    year: 2013
+    rating: 8.6
+    director: 詹姆斯·沃德·布柯特 James Ward Byrkit
+    actors: 艾米丽·芭尔多尼 Em
+    tmdb_id: 220289
+  - rank: 233
+    title_cn: 哈利·波特与凤凰社
+    title_en: / Harry Potter and the Order of the Phoenix
+    year: 2007
+    rating: 8.6
+    director: 大卫·叶茨 David Yates
+    actors: 丹尼尔·雷德克里夫 Daniel Radcliffe
+    tmdb_id: 675
+  - rank: 234
+    title_cn: 海边的曼彻斯特
+    title_en: / Manchester by the Sea
+    year: 2016
+    rating: 8.6
+    director: 肯尼斯·罗纳根 Kenneth Lonergan
+    actors: 卡西·阿弗莱克 Casey Affle
+    tmdb_id: 334541
+  - rank: 235
+    title_cn: 火星救援
+    title_en: / The Martian
+    year: 2015
+    rating: 8.5
+    director: 雷德利·斯科特 Ridley Scott
+    actors: 马特·达蒙 Matt Damon / 杰西卡
+    tmdb_id: 286217
+  - rank: 236
+    title_cn: 黑客帝国2：重装上阵
+    title_en: / The Matrix Reloaded
+    year: 2003
+    rating: 8.7
+    director: "拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski   ...\n          \
+      \                  2003 / 美国 / 动作 科幻"
+    actors: ''
+    tmdb_id: 604
+  - rank: 237
+    title_cn: 奇迹男孩
+    title_en: / Wonder
+    year: 2017
+    rating: 8.6
+    director: 斯蒂芬·卓博斯基 Stephen Chbosky
+    actors: 雅各布·特伦布莱 Jacob Tr
+    tmdb_id: 406997
+  - rank: 238
+    title_cn: 萤火虫之墓
+    title_en: / 火垂るの墓
+    year: 1988
+    rating: 8.7
+    director: 高畑勋 Isao Takahata
+    actors: "辰己努 / 白石绫乃 / 志乃原良子\n                            1988 / 日本 / 动画 剧情 战争"
+    tmdb_id: 12477
+  - rank: 239
+    title_cn: 千年女优
+    title_en: / 千年女優
+    year: 2001
+    rating: 8.8
+    director: 今敏 Satoshi Kon
+    actors: 庄司美代子 Miyoko Shôji / 小山茉美 Mam
+    tmdb_id: 33320
+  - rank: 240
+    title_cn: 战争之王
+    title_en: / Lord of War
+    year: 2005
+    rating: 8.7
+    director: 安德鲁·尼科尔 Andrew Niccol
+    actors: 尼古拉斯·凯奇 Nicolas Cage /
+    tmdb_id: 1830
+  - rank: 241
+    title_cn: 步履不停
+    title_en: / 歩いても 歩いても
+    year: 2008
+    rating: 8.8
+    director: 是枝裕和 Hirokazu Koreeda
+    actors: 阿部宽 Hiroshi Abe / 夏川结衣 Yu
+    tmdb_id: 25050
+  - rank: 242
+    title_cn: 谍影重重2
+    title_en: / The Bourne Supremacy
+    year: 2004
+    rating: 8.7
+    director: 保罗·格林格拉斯 Paul Greengrass
+    actors: 马特·达蒙 Matt Damon /
+    tmdb_id: 2502
+  - rank: 243
+    title_cn: 血钻
+    title_en: / Blood Diamond
+    year: 2006
+    rating: 8.7
+    director: 爱德华·兹威克 Edward Zwick
+    actors: 莱昂纳多·迪卡普里奥 Leonardo
+    tmdb_id: 1372
+  - rank: 244
+    title_cn: 攻壳机动队
+    title_en: / 攻殻機動隊
+    year: 1995
+    rating: 9.0
+    director: 押井守 Mamoru Oshii
+    actors: 田中敦子 Atsuko Tanaka / 大冢明夫 Akio
+    tmdb_id: 9323
+  - rank: 245
+    title_cn: 蜘蛛侠：平行宇宙
+    title_en: '/ Spider-Man: Into the Spider-Verse'
+    year: 2018
+    rating: 8.6
+    director: 鲍勃·佩尔西凯蒂 Bob Persichetti / 彼得·拉姆齐 Peter Ramsey
+    actors: ''
+    tmdb_id: 324857
+  - rank: 246
+    title_cn: 冰雪奇缘
+    title_en: / Frozen
+    year: 2013
+    rating: 8.5
+    director: 克里斯·巴克 Chris Buck / 珍妮弗·李 Jennifer Lee
+    actors: 克里斯汀
+    tmdb_id: 109445
+  - rank: 247
+    title_cn: 魂断蓝桥
+    title_en: / Waterloo Bridge
+    year: 1940
+    rating: 8.8
+    director: 茂文·勒鲁瓦 Mervyn LeRoy
+    actors: 费雯·丽 Vivien Leigh / 罗伯特·
+    tmdb_id: 43824
+  - rank: 248
+    title_cn: 房间
+    title_en: / Room
+    year: 2015
+    rating: 8.8
+    director: 伦尼·阿伯拉罕森 Lenny Abrahamson
+    actors: 布丽·拉尔森 Brie Larson
+    tmdb_id: 264644
+  - rank: 249
+    title_cn: 隐藏人物
+    title_en: / Hidden Figures
+    year: 2016
+    rating: 8.9
+    director: 特奥多尔·梅尔菲 Theodore Melfi
+    actors: 塔拉吉·P·汉森 Taraji P
+    tmdb_id: 381284
+  - rank: 250
+    title_cn: 谍影重重
+    title_en: / The Bourne Identity
+    year: 2002
+    rating: 8.6
+    director: 道格·里曼 Doug Liman
+    actors: 马特·达蒙 Matt Damon / 弗兰卡·波坦
+    tmdb_id: 2501
