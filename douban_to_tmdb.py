@@ -10,6 +10,9 @@ import yaml
 import requests
 from urllib.parse import quote_plus
 
+# 需要安装的库: pip install pyyaml requests
+#
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -194,4 +197,4 @@ def main():
             print(f" ... 还有 {len(misses) - 5} 部")
 
 if __name__ == "__main__":
-    main() 
+    main()
